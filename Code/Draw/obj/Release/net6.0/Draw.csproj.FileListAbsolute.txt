@@ -1,0 +1,12 @@
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\bin\Release\net6.0\Draw.deps.json
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\bin\Release\net6.0\Draw.dll
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\bin\Release\net6.0\Draw.pdb
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\obj\Release\net6.0\Draw.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\obj\Release\net6.0\Draw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\obj\Release\net6.0\Draw.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\obj\Release\net6.0\Draw.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\obj\Release\net6.0\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\obj\Release\net6.0\Draw.dll
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\obj\Release\net6.0\refint\Draw.dll
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\obj\Release\net6.0\Draw.pdb
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Draw\obj\Release\net6.0\ref\Draw.dll

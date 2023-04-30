@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+eA4U2y4QmS8t4a9U/xSGa/e5NvYzpR6cePhys8RSl9HnAGaXk/e7eMdUG4v8ZnN7NO9c87vH7ePqhH0UUC0TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kyzlyk\\Desktop\\C#\\MyProjects\\MyProjects\\Super_Mario\\Super_Mario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyzlyk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

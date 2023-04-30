@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4JnPNsyWHVi5+5LkoJ/9sp25NxQjxtoJeIFPsqSidqDhoFPA6IW2pNVrc/45CrtWQpck2Q0NhcbkpFbLgzj7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kyzlyk\\Desktop\\C#\\MyProjects\\MyProjects\\AIDraw\\AIDraw.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyzlyk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

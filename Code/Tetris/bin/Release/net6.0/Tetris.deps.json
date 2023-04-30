@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tetris/1.0.0": {
+        "dependencies": {
+          "FlappyBird": "1.0.0",
+          "Draw": "1.0.0.0"
+        },
+        "runtime": {
+          "Tetris.dll": {}
+        }
+      },
+      "FlappyBird/1.0.0": {
+        "runtime": {
+          "ToolBar.dll": {}
+        }
+      },
+      "Draw/1.0.0.0": {
+        "runtime": {
+          "Draw.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tetris/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FlappyBird/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Draw/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

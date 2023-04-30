@@ -1,0 +1,5 @@
+C:\Users\Vlad\Desktop\MyGames\Pin_Pong.exe
+C:\Users\Vlad\Desktop\MyGames\Pin_Pong.dll
+C:\Users\Vlad\Desktop\MyGames\Pin_Pong.deps.json
+C:\Users\Vlad\Desktop\MyGames\Pin_Pong.runtimeconfig.json
+C:\Users\Vlad\Desktop\MyGames\Pin_Pong.pdb

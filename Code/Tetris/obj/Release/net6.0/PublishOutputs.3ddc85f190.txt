@@ -1,0 +1,8 @@
+C:\Users\Vlad\Desktop\MyGames\Tetris\Tetris.exe
+C:\Users\Vlad\Desktop\MyGames\Tetris\Tetris.dll
+C:\Users\Vlad\Desktop\MyGames\Tetris\Tetris.deps.json
+C:\Users\Vlad\Desktop\MyGames\Tetris\Tetris.runtimeconfig.json
+C:\Users\Vlad\Desktop\MyGames\Tetris\Tetris.pdb
+C:\Users\Vlad\Desktop\MyGames\Tetris\Draw.dll
+C:\Users\Vlad\Desktop\MyGames\Tetris\ToolBar.dll
+C:\Users\Vlad\Desktop\MyGames\Tetris\ToolBar.pdb

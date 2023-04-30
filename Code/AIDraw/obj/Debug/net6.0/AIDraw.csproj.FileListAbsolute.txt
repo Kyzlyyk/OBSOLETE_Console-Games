@@ -1,0 +1,17 @@
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\bin\Debug\net6.0\AIDraw.exe
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\bin\Debug\net6.0\AIDraw.deps.json
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\bin\Debug\net6.0\AIDraw.runtimeconfig.json
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\bin\Debug\net6.0\AIDraw.dll
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\bin\Debug\net6.0\AIDraw.pdb
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\obj\Debug\net6.0\AIDraw.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\obj\Debug\net6.0\AIDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\obj\Debug\net6.0\AIDraw.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\obj\Debug\net6.0\AIDraw.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\obj\Debug\net6.0\AIDraw.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\obj\Debug\net6.0\AIDraw.dll
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\obj\Debug\net6.0\refint\AIDraw.dll
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\obj\Debug\net6.0\AIDraw.pdb
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\obj\Debug\net6.0\AIDraw.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\obj\Debug\net6.0\ref\AIDraw.dll
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\AIDraw\obj\Debug\net6.0\AIDraw.csproj.CopyComplete

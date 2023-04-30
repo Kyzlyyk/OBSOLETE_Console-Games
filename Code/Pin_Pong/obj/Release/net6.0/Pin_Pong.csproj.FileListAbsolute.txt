@@ -1,0 +1,15 @@
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\bin\Release\net6.0\Pin_Pong.exe
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\bin\Release\net6.0\Pin_Pong.deps.json
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\bin\Release\net6.0\Pin_Pong.runtimeconfig.json
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\bin\Release\net6.0\Pin_Pong.dll
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\bin\Release\net6.0\Pin_Pong.pdb
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\obj\Release\net6.0\Pin_Pong.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\obj\Release\net6.0\Pin_Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\obj\Release\net6.0\Pin_Pong.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\obj\Release\net6.0\Pin_Pong.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\obj\Release\net6.0\Pin_Pong.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\obj\Release\net6.0\Pin_Pong.dll
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\obj\Release\net6.0\refint\Pin_Pong.dll
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\obj\Release\net6.0\Pin_Pong.pdb
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\obj\Release\net6.0\Pin_Pong.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\C#\MyProjects\MyProjects\Pin_Pong\obj\Release\net6.0\ref\Pin_Pong.dll

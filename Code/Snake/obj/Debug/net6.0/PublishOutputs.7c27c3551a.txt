@@ -1,0 +1,9 @@
+C:\Users\Vlad\Desktop\MyGames\Snake\Snake.exe
+C:\Users\Vlad\Desktop\MyGames\Snake\Snake.dll
+C:\Users\Vlad\Desktop\MyGames\Snake\Snake.deps.json
+C:\Users\Vlad\Desktop\MyGames\Snake\Snake.runtimeconfig.json
+C:\Users\Vlad\Desktop\MyGames\Snake\Snake.pdb
+C:\Users\Vlad\Desktop\MyGames\Snake\Draw.dll
+C:\Users\Vlad\Desktop\MyGames\Snake\ToolBar.dll
+C:\Users\Vlad\Desktop\MyGames\Snake\ToolBar.pdb
+C:\Users\Vlad\Desktop\MyGames\Snake\Draw.pdb

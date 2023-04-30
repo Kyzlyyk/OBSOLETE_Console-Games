@@ -1,0 +1,9 @@
+C:\Users\Vlad\Desktop\MyGames\Flappy Bird\FlappyBird2.0.exe
+C:\Users\Vlad\Desktop\MyGames\Flappy Bird\FlappyBird2.0.dll
+C:\Users\Vlad\Desktop\MyGames\Flappy Bird\FlappyBird2.0.deps.json
+C:\Users\Vlad\Desktop\MyGames\Flappy Bird\FlappyBird2.0.runtimeconfig.json
+C:\Users\Vlad\Desktop\MyGames\Flappy Bird\FlappyBird2.0.pdb
+C:\Users\Vlad\Desktop\MyGames\Flappy Bird\Draw.dll
+C:\Users\Vlad\Desktop\MyGames\Flappy Bird\ToolBar.dll
+C:\Users\Vlad\Desktop\MyGames\Flappy Bird\ToolBar.pdb
+C:\Users\Vlad\Desktop\MyGames\Flappy Bird\Draw.pdb

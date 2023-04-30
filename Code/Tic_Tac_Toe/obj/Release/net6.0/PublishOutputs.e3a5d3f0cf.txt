@@ -1,0 +1,7 @@
+C:\Users\Vlad\Desktop\my-photo\Tic_Tac_Toe.exe
+C:\Users\Vlad\Desktop\my-photo\Tic_Tac_Toe.dll
+C:\Users\Vlad\Desktop\my-photo\Tic_Tac_Toe.deps.json
+C:\Users\Vlad\Desktop\my-photo\Tic_Tac_Toe.runtimeconfig.json
+C:\Users\Vlad\Desktop\my-photo\Tic_Tac_Toe.pdb
+C:\Users\Vlad\Desktop\my-photo\Draw.dll
+C:\Users\Vlad\Desktop\my-photo\Draw.pdb
